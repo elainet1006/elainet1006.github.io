@@ -3,7 +3,7 @@
 Welcome to my GitHub website.
 
 
-##SF Open Data
+## SF Open Data
 
 [San Francisco Open Data](https://datasf.org/opendata/)
 
@@ -19,7 +19,7 @@ the city. It could also help businesses try and decide where they’d like to se
 
 
 
-###“The Data Journalism Handbook 1” 
+### “The Data Journalism Handbook 1” 
 
 [The Data Journalism Handbook 1](https://datajournalism.com/read/handbook/one)
 
